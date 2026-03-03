@@ -2,7 +2,7 @@
 
 ## Ingredients
  * 2 avocadoes 
- * 2 limes
+ * 1 lime
  * 1 tomatoe
  * 1 onion
  * salt
